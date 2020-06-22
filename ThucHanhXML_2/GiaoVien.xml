@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSGV>
+  <GIAOVIEN>
+    <MaGV>GV01</MaGV>
+    <HoGV>Nguyen Tuan</HoGV>
+    <TenGV>Hung</TenGV>
+    <NgaySinh>01/01/1976</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Ang Giang</DiaChi>
+    <MaMH>MH01</MaMH>
+  </GIAOVIEN>
+  <GIAOVIEN>
+    <MaGV>GV02</MaGV>
+    <HoGV>Tran Nhu</HoGV>
+    <TenGV>Linh</TenGV>
+    <NgaySinh>01/03/1979</NgaySinh>
+    <GioiTinh>Nu</GioiTinh>
+    <DiaChi>Ang Giang</DiaChi>
+    <MaMH>MH02</MaMH>
+  </GIAOVIEN>
+  <GIAOVIEN>
+    <MaGV>GV03</MaGV>
+    <HoGV>Pham The</HoGV>
+    <TenGV>Tung</TenGV>
+    <NgaySinh>04/03/1978</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Ca Mau</DiaChi>
+    <MaMH>MH03</MaMH>
+  </GIAOVIEN>
+  <GIAOVIEN>
+    <MaGV>GV04</MaGV>
+    <HoGV>Lam Thanh</HoGV>
+    <TenGV>Giang</TenGV>
+    <NgaySinh>05/07/1980</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Dong Nai</DiaChi>
+    <MaMH>MH02</MaMH>
+  </GIAOVIEN>
+  <GIAOVIEN>
+    <MaGV>GV05</MaGV>
+    <HoGV>Hoang Ngoc</HoGV>
+    <TenGV>Lan</TenGV>
+    <NgaySinh>05/11/1983</NgaySinh>
+    <GioiTinh>Nu</GioiTinh>
+    <DiaChi>Ben Tre</DiaChi>
+    <MaMH>MH03</MaMH>
+  </GIAOVIEN>
+</DSGV>
